@@ -1,0 +1,23 @@
+{
+  "name": "wharton-brewery",
+  "version": "1.0.0",
+  "description": "Website for Wharton Brewery",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "~1.0.0",
+    "express": "~4.9.8"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/awhartonODU/wharton-brewery.git"
+  },
+  "author": "Andrew Wharton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awhartonODU/wharton-brewery/issues"
+  },
+  "homepage": "https://github.com/awhartonODU/wharton-brewery#readme"
+}

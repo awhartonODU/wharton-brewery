@@ -1,0 +1,48 @@
+
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: Rojo Johnson
+Brewer: Andrew Wharton
+Asst Brewer: 
+Style: American Amber Ale
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 6.52 gal
+Post Boil Volume: 5.98 gal
+Batch Size (fermenter): 5.00 gal   
+Bottling Volume: 4.60 gal
+Estimated OG: 1.059 SG
+Estimated Color: 14.5 SRM
+Estimated IBU: 27.6 IBUs
+Brewhouse Efficiency: 72.00 %
+Est Mash Efficiency: 82.8 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+8 lbs                 Pale Malt (2 Row) US (2.0 SRM)           Grain         1        72.7 %        
+1 lbs                 Caraaroma (130.0 SRM)                    Grain         2        9.1 %         
+8.0 oz                Carafoam (2.0 SRM)                       Grain         3        4.5 %         
+8.0 oz                Melanoiden Malt (20.0 SRM)               Grain         4        4.5 %         
+1.00 oz               Crystal [3.50 %] - First Wort 60.0 min   Hop           5        13.2 IBUs     
+1.00 oz               Cascade [5.50 %] - Boil 30.0 min         Hop           6        14.5 IBUs     
+1.0 pkg               California Ale (White Labs #WLP001) [35. Yeast         7        -             
+1 lbs                 Honey (1.0 SRM)                          Sugar         8        9.1 %         
+
+
+Mash Schedule: Single Infusion, Full Body, Batch Sparge
+Total Grain Weight: 11 lbs
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Mash In           Add 12.50 qt of water at 165.9 F        154.0 F       90 min        
+
+Sparge: Batch sparge with 3 steps (0.33gal, 2.26gal, 2.26gal) of 168.0 F water
+Notes:
+------
+
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
